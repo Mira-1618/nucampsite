@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel --open",
     "build": "parcel build"
- },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Mira-1618/nucampsite.git"
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Mira-1618/nucampsite#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.11.0",
     "parcel": "^2.11.0"
   },
   "dependencies": {
